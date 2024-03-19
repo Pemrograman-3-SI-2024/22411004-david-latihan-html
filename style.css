@@ -1,0 +1,31 @@
+.outline-btn{
+   border: 1 thick; 
+   padding: 02em 1em;
+   border-radius:  20px;
+   background-color: red white;
+
+}
+.outline-btn:hover{
+    background-color: aqua;
+    font-size: 15px;
+    font:  ;
+}
+.my-table td {
+    border: none;
+}
+.my-table td {
+    padding: 1em 7em;
+} 
+.my-card {
+    width: 20em;
+    background-color: blue;
+}
+.my-card .card-content{
+    padding: 2 em 1em 1em;
+}
+.my-card .card-content .card-title{
+    font-weight: bold;
+    font-size: 14px;
+    color: rgb(199, 168, 16);
+    
+}
